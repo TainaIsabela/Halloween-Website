@@ -2,7 +2,7 @@
 
 This repository is a reproduction of the video: https://youtu.be/lgo1CEPZoxg, with purely educational and experimental purposes.
 
-##Running
+## Running
 ```
 git clone https://github.com/TainaIsabela/Halloween-Website
 ```
